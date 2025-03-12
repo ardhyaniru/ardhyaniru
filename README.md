@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm [Niranjan] 👋
 
-<!--
-**ardhyaniru/ardhyaniru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a passionate developer  learning **TypeScript, JavaScript, Node.js**, and backend development. 
 
-Here are some ideas to get you started:
+### 💡 Skills
+- 🔹 **Html** 
+- 🔹 **Css** 
+- 🔹 **Javascript** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 What I'm Currently Learning  
+🔹 Typescript and Backend Tools
+
+
+## 📫 Connect with Me  
+🔗 **GitHub:** [Github Profile](https://github.com/ardhyaniru)<br>
+💼 **LinkedIn:** [Linkedin Profile](https://www.linkedin.com/in/niranjan-aradhya-50965324b/)
